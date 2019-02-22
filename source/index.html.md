@@ -25,6 +25,7 @@ title: FreshTax - Steuerberater für Start-Ups
       <li>Kostenlose Erstberatung</li>
     </ul>
 
+    &nbsp;&nbsp;&nbsp;<a href="/leistungen" class="has-text-weight-bold"><span class="icon"><i class="fas fa-angle-double-right"></i></span> Zu allen Leistungen</a>
+
   </div>
 </div>
-
