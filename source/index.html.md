@@ -2,6 +2,11 @@
 title: FreshTax - Steuerberater für Start-Ups
 ---
 
-# Adam Mogyoro
 
-## Steuerberater & Wirtschaftstreuhänder
+
+# Steuerberater & Wirtschaftstreuhänder
+
+
+* Hilfe bei Gründung von Start-Ups
+* Begleitung von Start-Ups
+* Kostenlose Erstberatung

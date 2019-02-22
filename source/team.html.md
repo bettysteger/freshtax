@@ -1,13 +1,15 @@
 ---
-title: About
+title: Team
 ---
 
-# Beruflicher Werdegang
+# Adam Mogyoro 
+
+### Beruflicher Werdegang
 
 Studium der Wirtschaftswissenschaften an der Wirtschaftsuniversität Wien, Wirtschaftsprüfung und Steuerberatung bei KPMG, Steuerberatung bei SOT Süd-Ost Treuhand, Angelobung zum Steuerberater, Fachvortragender am Wirtschaftsförderungsinstitut (WIFI) im Bereich Steuern und Rechnungswesen
 
 
-# Mitgliedschaften
+### Mitgliedschaften
 
 Kammer der Wirtschaftstreuhänder, Österreichische Gesellschaft der Wirtschaftstreuhänder (ÖGWT,) WU Alumni Club, Magischer Cercle Wien
 
