@@ -33,16 +33,21 @@ page '/*.txt', layout: false
 # Methods defined in the helpers block are available in templates
 # https://middlemanapp.com/basics/helper-methods/
 
-# helpers do
-#   def some_helper
-#     'Helping'
-#   end
-# end
+helpers do
+  def nav_link(link_text, url, options = {})
+    is_active = url == current_page.url
+
+    options[:class] ||= ""
+    options[:class] << " is-active" if is_active
+    options[:'aria-current'] = "page" if is_active
+    link_to(link_text, url, options)
+  end
+end
 
 # Build-specific configuration
 # https://middlemanapp.com/advanced/configuration/#environment-specific-settings
 
-# configure :build do
-#   activate :minify_css
-#   activate :minify_javascript
-# end
+configure :build do
+  activate :minify_css
+  activate :minify_javascript
+end

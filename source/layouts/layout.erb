@@ -7,13 +7,41 @@
     <!-- Use the title from a page's frontmatter if it has one -->
     <title><%= current_page.data.title || "FreshTax" %></title>
     <%= stylesheet_link_tag "site" %>
+    <%= stylesheet_link_tag "https://fonts.googleapis.com/css?family=Nunito+Sans" %>
   </head>
-  <body>
-    <a href="/">Home</a>
-    <a href="/about">About</a>
-    <a href="/leistungen">Leistungen</a>
+  <body class="has-navbar-fixed-top">
 
-    <%= yield %>
+    <nav class="navbar is-fixed-top" role="navigation" aria-label="main navigation">
+      <div class="container">
+        <div class="navbar-brand">
+          <%= nav_link('FreshTax', '/', class: 'navbar-item') %>
+
+          <a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false">
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+            <span aria-hidden="true"></span>
+          </a>
+        </div>
+
+        <div class="navbar-menu" id="navMenu">
+          <div class="navbar-end">
+
+            <%= nav_link('About', '/about/', class: 'navbar-item') %>
+            <%= nav_link('Leistungen', '/leistungen/', class: 'navbar-item') %>
+
+          </div>
+        </div>
+      </div>
+    </nav>
+
+    <main aria-label="Content">
+      <section class="section">
+        <div class="container content">
+          <%= yield %>
+        </div>
+      </section>
+    </main>
+
     <%= javascript_include_tag "site" %>
   </body>
 </html>
