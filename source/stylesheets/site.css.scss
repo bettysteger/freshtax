@@ -55,8 +55,20 @@ h6 {
     }
   }
 }
+
 .hero {
   background-image: linear-gradient(to right, rgba($primary, 0.8), rgba($primary, 0.4)), url('/images/rawpixel-565462-unsplash.jpg');
   background-position: center -30px;
   background-size: cover;
+}
+
+img.is-pulled-left, img.is-pulled-right {
+  margin-bottom: 3rem;
+  width: 20%;
+}
+img.is-pulled-left {
+  margin-right: 2rem;
+}
+img.is-pulled-right {
+  margin-left: 2rem;
 }
