@@ -42,6 +42,17 @@ helpers do
     options[:'aria-current'] = "page" if is_active
     link_to(link_text, url, options)
   end
+
+  def page_url
+    "https://freshtax.netlify.com" + current_page.url
+  end
+
+  def meta_tags
+    {
+      description: current_page.data.description || 'Gründung und Begleitung von Start-Up Unternehmen',
+      keywords: current_page.data.keywords || 'Steuerberater, Start-Up, Salzburg'
+    }
+  end
 end
 
 # Build-specific configuration

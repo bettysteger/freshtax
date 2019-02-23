@@ -5,7 +5,19 @@
     <meta http-equiv="x-ua-compatible" content="ie=edge">
     <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
     <!-- Use the title from a page's frontmatter if it has one -->
-    <title><%= current_page.data.title || "FreshTax" %></title>
+    <title><%= current_page.data.title %> • FreshTax</title>
+    <meta name="description" content="<%= meta_tags[:description] %>">
+    <meta name="keywords" content="<%= meta_tags[:keywords] %>">
+
+    <meta property="og:title" content="<%= current_page.data.title %>">
+    <meta property="og:site_name" content="FreshTax">
+    <meta property="og:url" content="<%= page_url %>">
+    <meta property="og:description" content="<%= meta_tags[:description] %>">
+    <meta property="og:type" content="website">
+    <meta name="theme-color" content="#222222">
+
+    <link rel="canonical" href="<%= page_url %>">
+
     <%= stylesheet_link_tag "site" %>
     <%= stylesheet_link_tag "https://fonts.googleapis.com/css?family=Nunito+Sans:300,400,700" %>
   </head>

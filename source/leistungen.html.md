@@ -1,5 +1,7 @@
 ---
 title: Leistungen
+description: Allgemeines Ertragsteuerrecht, Umsatzsteuer und Verkehrssteuern, Gründung und Begleitung von Start-Up Unternehmen, Beratung bei Betriebsübernahmen & Betriebsaufgaben sowie Umgründungen, betriebswirtschaftliche Beratung
+keywords: ESt, USt, Start-Up
 ---
 
 # Allgemeine Leistungen
