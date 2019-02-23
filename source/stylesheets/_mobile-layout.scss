@@ -1,0 +1,23 @@
+/**
+ * Responsive typography
+ * @see https://getbootstrap.com/docs/4.0/content/typography/#responsive-typography
+ */
+@include mobile {
+
+  .content h1 {
+    font-size: 1.6rem;
+  }
+  .content h2 {
+    font-size: 1.3rem;
+  }
+  .content h3 {
+    font-size: 1.1rem;
+  }
+
+  h1, h2, h3 {
+    overflow-wrap: break-word;
+    word-wrap: break-word;
+    hyphens: auto;
+  }
+
+};
