@@ -19,6 +19,10 @@ Studium der Wirtschaftswissenschaften an der Wirtschaftsuniversität Wien, Wirts
 
 Kammer der Wirtschaftstreuhänder, Österreichische Gesellschaft der Wirtschaftstreuhänder (ÖGWT,) WU Alumni Club, Magischer Cercle Wien
 
+### Tätigkeitsgebiete
+
+Allgemeines Ertragsteuerrecht, Umsatzsteuer und Verkehrssteuern, Gründung und Begleitung von Start-Up Unternehmen, Beratung bei Betriebsübernahmen & Betriebsaufgaben sowie Umgründungen, betriebswirtschaftliche Beratung, Erstellung von Jahresabschlüssen und laufende Buchhaltung
+
 ---
 
 ![Philipp Frenzl](/images/philipp-frenzl.jpg){:.is-pulled-right}
@@ -36,7 +40,7 @@ Er studierte in Wien, daneben war er Berufsfußballspieler (ua bei SK Rapid Wien
 
 Zusätzlich hat er die „Collaborative Law“- Ausbildung (Kooperatives Anwaltsverfahren bzw. freiwilliges außergerichtliches Konfliktbearbeitungsverfahren, die auf Kooperation der Konfliktparteien mit ihren Anwälten und weiteren Experten statt auf Konfrontation setzt) absolviert. 
 
-###  Tätigkeitsgebiete
+### Tätigkeitsgebiete
 
 Bau- und Immobilienrecht, Sportrecht, Gesellschaftsrecht, Bankrecht, Kapitalmarkt- & Anlegerrecht, Corporate Governance, Versicherungsrecht, Wirtschaftsstrafrecht
 
