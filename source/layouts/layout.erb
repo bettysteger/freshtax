@@ -43,6 +43,19 @@
       </section>
     </main>
 
+    <footer class="footer">
+      <div class="content has-text-centered is-size-7">
+        <p>&copy; FreshTax <%= Date.today.strftime('%Y') %></p>
+
+        <%= nav_link('Kontakt', '/kontakt/') %>&nbsp;
+        <%= nav_link('Impressum', '/impressum/') %>
+
+        <!-- <a href="https://www.facebook.com/www.freshtax.at" target="_blank">
+          <span class="icon"><i class="fab fa-facebook-square"></i></span>
+        </a> -->
+      </div>
+    </footer>
+
     <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.7.2/css/all.css" integrity="sha384-fnmOCqbTlWIlj8LyTjo7mOUStjsKC4pOpQbqyi7RrhN7udi9RwhKkMHpvLbHG9Sr" crossorigin="anonymous">
     <%= javascript_include_tag "site" %>
   </body>
