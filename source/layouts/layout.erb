@@ -36,11 +36,29 @@
     </nav>
 
     <main aria-label="Content">
+
       <section class="section">
         <div class="container content">
           <%= yield %>
         </div>
       </section>
+
+      <% if content_for?(:hero) %>
+        <section class="hero is-medium">
+          <div class="hero-body">
+            <div class="container">
+              <div class="columns">
+                <div class="column is-5 is-offset-7 card">
+                  <div class="card-content content">
+                    <%= yield_content :hero %>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </section>
+      <% end %>
+
     </main>
 
     <footer class="footer">
