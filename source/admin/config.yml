@@ -1,0 +1,19 @@
+backend:
+  name: git-gateway
+
+media_folder: source/images/uploads
+public_folder: /images/uploads
+
+#publish_mode: editorial_workflow #optional, enables publishing workflow
+
+collections:
+  - name: "pages"
+    label: "Pages"
+    files:
+      - file: "source/leistungen.html.md"
+        label: "Leistungen"
+        name: "leistungen"
+        fields:
+          - {label: "Title", name: "title", widget: "string"}
+          - {label: "Description", name: "description", widget: "string"}
+          - {label: "Body", name: "body", widget: "markdown"}
