@@ -9,5 +9,16 @@
 <body>
   <!-- Include the script that builds the page and powers Netlify CMS -->
   <script src="https://unpkg.com/netlify-cms@^2.0.0/dist/netlify-cms.js"></script>
+  <script>
+    var Preview = createClass({
+      render: function() {
+        return h('div', {"className": "content"}, this.props.widgetFor('body'));
+      }
+    });
+
+    CMS.registerPreviewStyle('/stylesheets/site.css');
+    CMS.registerPreviewTemplate('pages', Preview);
+    CMS.registerPreviewStyle('https://use.fontawesome.com/releases/v5.7.2/css/all.css');
+  </script>
 </body>
 </html>
