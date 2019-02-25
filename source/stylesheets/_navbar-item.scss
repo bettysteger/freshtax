@@ -17,7 +17,7 @@
     pointer-events: none;
   }
   &::after {
-    background-color: $primary;
+    background-color: $dark;
     transition: transform .2s cubic-bezier(.215,.61,.355,1),-webkit-transform .2s cubic-bezier(.215,.61,.355,1);
     transform: scaleX(0);
     transform-origin: right center;
