@@ -47,11 +47,8 @@ helpers do
     "https://freshtax.netlify.com" + current_page.url
   end
 
-  def meta_tags
-    {
-      description: current_page.data.description || 'Gründung und Begleitung von Start-Up Unternehmen',
-      keywords: current_page.data.keywords || 'Steuerberater, Start-Up, Salzburg'
-    }
+  def meta_description
+    current_page.data.description || 'Gründung und Begleitung von Start-Up Unternehmen'
   end
 end
 
