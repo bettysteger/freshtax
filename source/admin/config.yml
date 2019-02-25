@@ -7,13 +7,14 @@ public_folder: /images/uploads
 #publish_mode: editorial_workflow #optional, enables publishing workflow
 
 collections:
-  - name: "pages"
-    label: "Pages"
-    files:
-      - file: "source/leistungen.html.md"
-        label: "Leistungen"
-        name: "leistungen"
-        fields:
-          - {label: "Title", name: "title", widget: "string"}
-          - {label: "Description", name: "description", widget: "string"}
-          - {label: "Body", name: "body", widget: "markdown"}
+  - name: pages
+    label: Pages
+    folder: source
+    extension: .html.md
+    format: frontmatter
+    create: true
+    slug: '{{title}}'
+    fields:
+      - {label: Title, name: title, widget: string, required: true}
+      - {label: Description, name: description, widget: string}
+      - {label: Body, name: body, widget: markdown}
