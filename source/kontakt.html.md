@@ -1,13 +1,12 @@
 ---
 title: Kontakt
+description: Kontaktiere uns jetzt
 ---
-
-
-**FreshTax**  
-Inhaber: Adam Mogyoro  
+**FreshTax**\
+Inhaber: Adam Mogyoro\
 Standorte: Salzburg & Wien
 
----
+- - -
 
 <a href="mailto:office@freshtax.at">
   <span class="icon"><i class="fas fa-envelope"></i></span> office@freshtax.at
@@ -21,6 +20,6 @@ Standorte: Salzburg & Wien
   <span class="icon"><i class="fab fa-facebook-square"></i></span> /www.freshtax.at
 </a>
 
----
+- - -
 
-Location/Standort? Öffnungszeiten?
+Öffnungszeiten?
