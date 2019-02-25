@@ -57,10 +57,13 @@ h6 {
   }
 }
 
-.hero {
-  background-image: linear-gradient(to right, rgba($primary, 0.8), rgba($primary, 0.4)), url('/images/rawpixel-565462-unsplash.jpg');
-  background-position: center -30px;
+.hero.is-fullheight-with-navbar {
+  background-image: linear-gradient(to bottom, $white, transparent), url('/images/jesus-kiteque-224069-unsplash.jpg');
+  background-position: bottom center;
   background-size: cover;
+  .hero-body {
+    align-items: baseline;
+  }
 }
 
 img.is-pulled-left, img.is-pulled-right {
