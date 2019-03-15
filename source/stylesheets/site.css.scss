@@ -12,6 +12,7 @@
 @import "../../node_modules/bulma/sass/elements/icon.sass";
 // @import "../../node_modules/bulma/sass/elements/other.sass";
 @import "../../node_modules/bulma/sass/grid/columns.sass";
+@import "../../node_modules/bulma/sass/grid/tiles.sass";
 @import "../../node_modules/bulma/sass/layout/footer.sass";
 @import "../../node_modules/bulma/sass/layout/section.sass";
 @import "../../node_modules/bulma/sass/layout/hero.sass";
@@ -84,4 +85,58 @@ img.is-pulled-left {
 }
 img.is-pulled-right {
   margin-left: 2rem;
+}
+
+.tile > a {
+  display: block;
+  position: relative;
+
+  background-color: $grey-darker;
+  margin-bottom: 1em;
+  min-height: 220px;
+  padding: 1.25rem 2.5rem 1.25rem 1.5rem;
+
+  color: $white;
+  h2 {
+    color: $white;
+    font-weight: normal;
+    letter-spacing: 0;
+    text-transform: none;
+  }
+
+  &::before,
+  &::after {
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    transform: scale3d(0, 0, 1);
+    transition: transform .3s ease-out 0s;
+    background: rgba(255, 255, 255, .1);
+    content: '';
+    pointer-events: none;
+  }
+
+  &::before {
+    transform-origin: left top;
+  }
+
+  &::after {
+    transform-origin: right bottom;
+  }
+
+  &:hover,
+  &:focus {
+    &::before,
+    &::after {
+      transform: scale3d(1, 1, 1);
+    }
+  }
+}
+
+.info {
+  max-height: 0px;
+  transition: max-height .3s ease;
+  overflow: hidden;
 }
