@@ -49,6 +49,7 @@
     <main aria-label="Content">
 
       <% if content_for?(:hero) %>
+
         <section class="hero is-fullheight-with-navbar">
           <div class="hero-body">
             <div class="container has-text-centered content">
@@ -56,13 +57,16 @@
             </div>
           </div>
         </section>
-      <% end %>
 
-      <section class="section">
-        <div class="container content">
-          <%= yield %>
-        </div>
-      </section>
+      <% else %>
+
+        <section class="section">
+          <div class="container content">
+            <%= yield %>
+          </div>
+        </section>
+
+      <% end %>
 
     </main>
 
