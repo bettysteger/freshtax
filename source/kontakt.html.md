@@ -19,7 +19,3 @@ Standorte: Salzburg & Wien
 <a href="https://www.facebook.com/www.freshtax.at" target="_blank">
   <span class="icon"><i class="fab fa-facebook-square"></i></span> /www.freshtax.at
 </a>
-
-- - -
-
-Öffnungszeiten?
