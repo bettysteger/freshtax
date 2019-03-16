@@ -4,67 +4,14 @@ description: Allgemeines Ertragsteuerrecht, Umsatzsteuer und Verkehrssteuern, Gr
 priority: 1.0
 ---
 
-<script>
-  var toggle = function (id) {
-    var all = document.getElementsByClassName('info'),
-        elem = document.getElementById(id);
-    
-    // close all others
-    Array.prototype.forEach.call(all, function(el) {
-      if(el.id !== id) {
-        el.style.maxHeight = 0;
-      }
-    });
 
-    if (window.getComputedStyle(elem).maxHeight === '800px') {
-      elem.style.maxHeight = 0;
-      return;
-    }
-    elem.style.maxHeight = '800px';
-  };
-</script>
-
-<div class="tile is-ancestor">
-  <div class="tile is-3">
-    <a href="#xlaufende-buchhaltung-und-lohnverrechnung" onclick="javascript:toggle('1');">
-      <h2 class="is-size-4">Buchhaltung<br>Lohnverrechnung</h2>
-    </a>
-  </div>
-  <div class="tile is-3">
-    <a href="#xsteueroptimierung-und-steuergestaltung" onclick="javascript:toggle('2');">
-      <h2 class="is-size-4">Steueroptimierung<br>Steuergestaltung</h2>
-    </a>
-  </div>
-  <div class="tile is-3">
-    <a href="#xbegleitung-von-unternehmensgrndungen" onclick="javascript:toggle('3');">
-      <h2 class="is-size-4">Unternehmens-<br>gründungen</h2>
-    </a>
-  </div>
-  <div class="tile is-3">
-    <a href="#xallgemeine-wirtschaftliche-beratung-von-unternehmen" onclick="javascript:toggle('4');">
-      <h2 class="is-size-4">Unternehmens-<br>beratung</h2>
-    </a>
-  </div>
+<div class="columns is-multiline ">
+<div class="column is-3">
+  <a href="#laufende-buchhaltung-und-lohnverrechnung" class="link">
+    <h2 class="is-size-4">Buchhaltung<br>Lohnverrechnung</h2>
+  </a>
 </div>
-
-<div class="tile is-ancestor">
-  <div class="tile is-4 is-vertical is-parent">
-    <div class="tile is-child box">
-      <a>One</a>
-    </div>
-    <div class="tile is-child box">
-      <a>Two</a>
-    </div>
-  </div>
-  <div class="tile is-parent">
-    <div class="tile is-child box">
-      <a>Three</a>
-    </div>
-  </div>
-</div>
-
-
-<div markdown="1" class="info" id="1">
+<div class="column info" markdown="1" id="0">
 
 ## Laufende Buchhaltung und Lohnverrechnung
 
@@ -76,8 +23,12 @@ Vor allem in der Lohnverrechnung ist es von besonderer Bedeutung stets auf dem a
 Unser [Expertenteam](/team) bietet Ihnen ein Rundumpaket, um Ihre laufende Buchhaltung und Lohnverrechnung für Sie maßgeschneidert und optimal zu gestalten.
 
 </div>
-
-<div markdown="1" class="info" id="2">
+<div class="column is-3">
+  <a href="#steueroptimierung-und-steuergestaltung" class="link">
+    <h2 class="is-size-4">Steueroptimierung<br>Steuergestaltung</h2>
+  </a>
+</div>
+<div class="column info" markdown="1" id="1">
 
 ## Steueroptimierung und Steuergestaltung
 
@@ -88,8 +39,12 @@ Eine zentrale Tätigkeit unseres Expertenteams ist die korrekte und optimale Abw
 Vor allem aber planen und konzipieren wir mit Ihnen gemeinsam Maßnahmen, die Ihre Steuersituation sowohl im privaten als auch im betrieblichen Bereich optimiert. Das stellen wir sowohl durch unsere laufende Fortbildungsverpflichtung als auch unserer eigene Motivation, Sie als Kunde optimal zu beraten und betreuen, sicher. Überzeugen Sie sich selbst von unserem Service!
 
 </div>
-
-<div markdown="1" class="info" id="3">
+<div class="column is-3">
+  <a href="#begleitung-von-unternehmensgrndungen" class="link">
+    <h2 class="is-size-4">Unternehmens-<br>gründungen</h2>
+  </a>
+</div>
+<div class="column info" markdown="1" id="2">
 
 ## Begleitung von Unternehmensgründungen 
 
@@ -103,8 +58,12 @@ Unternehmensgründer und Jungunternehmen stehen vor allem zu Beginn Ihrer Laufba
 Fragen, die Sie sich rund um die Gründung ihres Unternehmens stellen müssen, haben langfristige Auswirkungen auf Ihren Erfolg. Unser [Expertenteam](/team) steht Ihnen mit dem notwendigen Know-How und relevanter Erfahrung bei all Ihren Fragen mit Rat und Tat zur Seite. Gemeinsam ebnen wir den Weg, um Ihr Unternehmen optimal und nach Ihren individuellen Bedürfnissen zu gestalten.
 
 </div>
-
-<div markdown="1" class="info" id="4">
+<div class="column is-3">
+  <a href="#allgemeine-wirtschaftliche-beratung-von-unternehmen" class="link">
+    <h2 class="is-size-4">Unternehmens-<br>beratung</h2>
+  </a>
+</div>
+<div class="column info" markdown="1" id="3">
 
 ## Allgemeine Wirtschaftliche Beratung von Unternehmen 
 
@@ -113,5 +72,31 @@ Ebenso wichtig wie ihre Steuerangelegenheiten, ist Ihre strategische Planung sow
 Unser [Expertenteam](/team) erarbeitet gerne die für Sie optimale Strategie zur Unternehmenssteuerung.
 
 </div>
+</div>
 
+
+<script>
+  var links = document.getElementsByClassName('link');
+
+  Array.prototype.forEach.call(links, function(link, i) { 
+    link.addEventListener('click', function (e) {
+      e.preventDefault();
+      toggle(i + '');
+    });
+  });
+
+  var toggle = function (id) {
+    var all = document.getElementsByClassName('info'),
+        elem = document.getElementById(id);
+    
+    // close all others
+    Array.prototype.forEach.call(all, function(el) {
+      if(el.id !== id) {
+        el.classList.remove('is-9');
+      }
+    });
+
+    elem.classList.toggle('is-9');
+  };
+</script>
 
