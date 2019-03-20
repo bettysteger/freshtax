@@ -3,7 +3,28 @@ title: Team
 ---
 
 
-![Adam Mogyoro](/images/adam-mogyoro.jpg){:.is-pulled-left}
+<div class="columns is-multiline is-mobile is-vcentered">
+  <div class="column is-half-mobile">
+    <h1>Ihr Expertenteam</h1>
+  </div>
+  <div class="column is-half-mobile person">
+    <img src="/images/team/adam-mogyoro.jpg" alt="Adam Mogyoro">
+    <div class="hover">StB Adam Mogyoro, BSc (WU), L.L.M</div>
+  </div>
+  <div class="column is-half-mobile person">
+    <img src="/images/team/philipp-frenzl.jpg" alt="Philipp Frenzl">
+    <div class="hover">RA Mag. Philip Frenzl </div>
+  </div>
+  <div class="column is-half-mobile person">
+    <img src="/images/team/wolfgang-grabmann.jpg" alt="Wolfgang Grabmann">
+    <div class="hover">StB Wolfgang Grabmann</div>
+  </div>
+</div>
+
+StB Daniel Bader, MSc  ?
+
+----
+----
 
 # Adam Mogyoro
 
@@ -24,8 +45,6 @@ Kammer der Wirtschaftstreuhänder, Österreichische Gesellschaft der Wirtschafts
 Allgemeines Ertragsteuerrecht, Umsatzsteuer und Verkehrssteuern, Gründung und Begleitung von Start-Up Unternehmen, Beratung bei Betriebsübernahmen & Betriebsaufgaben sowie Umgründungen, betriebswirtschaftliche Beratung, Erstellung von Jahresabschlüssen und laufende Buchhaltung
 
 ---
-
-![Philipp Frenzl](/images/philipp-frenzl.jpg){:.is-pulled-right}
 
 # Mag. Philipp Frenzl
 
