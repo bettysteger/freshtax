@@ -1,5 +1,6 @@
 ---
 title: Impressum
+hide_from_sitemap: true
 ---
 
 # IMPRESSUM
