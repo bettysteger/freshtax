@@ -5,13 +5,13 @@ priority: 1.0
 ---
 
 
-<div class="columns is-multiline ">
+<div class="columns is-multiline">
 <div class="column is-3">
   <a href="#laufende-buchhaltung-und-lohnverrechnung" class="link">
     <h2 class="is-size-4">Buchhaltung<br>Lohnverrechnung</h2>
   </a>
 </div>
-<div class="column info" markdown="1" id="0">
+<div class="column is-full is-hidden-tablet info" markdown="1" id="0">
 
 ## Laufende Buchhaltung und Lohnverrechnung
 
@@ -28,7 +28,7 @@ Unser [Expertenteam](/team) bietet Ihnen ein Rundumpaket, um Ihre laufende Buchh
     <h2 class="is-size-4">Steueroptimierung<br>Steuergestaltung</h2>
   </a>
 </div>
-<div class="column info" markdown="1" id="1">
+<div class="column is-full is-hidden-tablet info" markdown="1" id="1">
 
 ## Steueroptimierung und Steuergestaltung
 
@@ -44,7 +44,7 @@ Vor allem aber planen und konzipieren wir mit Ihnen gemeinsam Maßnahmen, die Ih
     <h2 class="is-size-4">Unternehmens-<br>gründungen</h2>
   </a>
 </div>
-<div class="column info" markdown="1" id="2">
+<div class="column is-full is-hidden-tablet info" markdown="1" id="2">
 
 ## Begleitung von Unternehmensgründungen 
 
@@ -63,7 +63,7 @@ Fragen, die Sie sich rund um die Gründung ihres Unternehmens stellen müssen, h
     <h2 class="is-size-4">Unternehmens-<br>beratung</h2>
   </a>
 </div>
-<div class="column info" markdown="1" id="3">
+<div class="column is-full is-hidden-tablet info" markdown="1" id="3">
 
 ## Allgemeine Wirtschaftliche Beratung von Unternehmen 
 
@@ -72,6 +72,7 @@ Ebenso wichtig wie ihre Steuerangelegenheiten, ist Ihre strategische Planung sow
 Unser [Expertenteam](/team) erarbeitet gerne die für Sie optimale Strategie zur Unternehmenssteuerung.
 
 </div>
+<div class="column is-full is-hidden-mobile" id="desktop"></div>
 </div>
 
 
@@ -87,16 +88,21 @@ Unser [Expertenteam](/team) erarbeitet gerne die für Sie optimale Strategie zur
 
   var toggle = function (id) {
     var all = document.getElementsByClassName('info'),
-        elem = document.getElementById(id);
-    
-    // close all others
-    Array.prototype.forEach.call(all, function(el) {
-      if(el.id !== id) {
-        el.classList.remove('is-9');
-      }
-    });
+        elem = document.getElementById(id),
+        desktop = document.getElementById('desktop');
 
-    elem.classList.toggle('is-9');
+    if(window.innerWidth < 768) {
+      // close all others
+      Array.prototype.forEach.call(all, function(el) {
+        if(el.id !== id) {
+          el.classList.remove('open');
+        }
+      });
+      elem.classList.toggle('open');
+    } else {
+      desktop.innerHTML = desktop.innerHTML === elem.innerHTML ? '' : elem.innerHTML; 
+    }
+    
   };
 </script>
 

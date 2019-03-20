@@ -138,14 +138,12 @@ img.is-pulled-right {
 
 .info {
   display: none;
-  // max-width: 0;
   // max-height: 0;
   // transition: max-height .3s ease;
   // overflow: hidden;
 
-  &.is-9 {
+  &.open {
     display: block;
-    // max-width: 1000px;
     // max-height: 800px;
   }
 }
