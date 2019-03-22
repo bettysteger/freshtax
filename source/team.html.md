@@ -2,11 +2,9 @@
 title: Team
 ---
 
+# Ihr Expertenteam
 
 <div class="columns is-multiline is-mobile is-vcentered">
-  <div class="column is-half-mobile">
-    <h1>Ihr Expertenteam</h1>
-  </div>
   <div class="column is-half-mobile person">
     <img src="/images/team/adam-mogyoro.jpg" alt="Adam Mogyoro">
     <div class="hover">StB Adam Mogyoro, BSc (WU), L.L.M</div>
@@ -19,9 +17,12 @@ title: Team
     <img src="/images/team/wolfgang-grabmann.jpg" alt="Wolfgang Grabmann">
     <div class="hover">StB Wolfgang Grabmann</div>
   </div>
+  <div class="column is-half-mobile person">
+    <img src="/images/team/daniel-bader.jpg" alt="Daniel Bader">
+    <div class="hover">StB Daniel Bader, MSc</div>
+  </div>
 </div>
 
-StB Daniel Bader, MSc  ?
 
 ----
 ----
