@@ -28,6 +28,11 @@
 //   letter-spacing: 2.5px;
 // }
 
+.column p {
+  hyphens: auto;
+  text-align: justify;
+}
+
 i.fa-5x { // § icon
   display: inline-block;
   font-style: normal;

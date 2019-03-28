@@ -34,7 +34,7 @@ Unser [Expertenteam](/team) bietet Ihnen ein Rundumpaket, um Ihre laufende Buchh
 
 Eine zentrale Tätigkeit unseres Expertenteams ist die korrekte und optimale Abwicklung aller steuerlichen Angelegenheiten unserer Kunden. 
 
-> Wir sorgen für Sie dafür, dass alle steuerrechtlichen Verpflichtungen akkurat und zeitgerecht erfüllt werden. 
+Wir sorgen für Sie dafür, dass alle **steuerrechtlichen Verpflichtungen akkurat und zeitgerecht** erfüllt werden.
 
 Vor allem aber planen und konzipieren wir mit Ihnen gemeinsam Maßnahmen, die Ihre Steuersituation sowohl im privaten als auch im betrieblichen Bereich optimiert. Das stellen wir sowohl durch unsere laufende Fortbildungsverpflichtung als auch unserer eigene Motivation, Sie als Kunde optimal zu beraten und betreuen, sicher. Überzeugen Sie sich selbst von unserem Service!
 
