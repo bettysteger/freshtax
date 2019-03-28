@@ -102,7 +102,13 @@ Unser [Expertenteam](/team) erarbeitet gerne die für Sie optimale Strategie zur
     } else {
       desktop.innerHTML = desktop.innerHTML === elem.innerHTML ? '' : elem.innerHTML; 
     }
+
+    if(elem.classList.contains('open')) {
+      elem.getElementsByTagName('h2')[0].scrollIntoView({ behavior: 'smooth' });
+      // window.scrollBy({ top: 80, left: 0, behavior: 'smooth' }); // 80px = fixed header
+    }
     
   };
 </script>
+
 
