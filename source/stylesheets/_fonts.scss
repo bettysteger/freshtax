@@ -1,0 +1,50 @@
+/*
+Font:     Oakes Grotesk
+Style:    Regular
+URL:    https://www.youworkforthem.com/font/T7517/oakes-grotesk
+Foundry:  Samuel Oakes
+Foundry:  https://www.youworkforthem.com/designer/889/samuel-oakes
+Copyright:  \(c\)2017 Oakes is a trademark of Samuel Oakes. All rights reserved.
+Version:  17
+Created:  August 26, 2018
+License:  https://www.youworkforthem.com/font-license
+License:  The WebFont(s) listed in this document must follow the YouWorkForThem
+      WebFont license rules. All other parties are strictly restricted
+      from using the WebFonts(s) listed without a purchased license.
+      All details above must always remain unaltered and visible in your CSS.
+*/
+@font-face {
+  font-family: 'OakesGrotesk';
+  src: url('fonts/oakes-grotesk-regular.eot');
+  src: url('fonts/oakes-grotesk-regular.eot?#iefix') format('embedded-opentype'),
+             url('fonts/oakes-grotesk-regular.woff2') format('woff2'),
+       url('fonts/oakes-grotesk-regular.woff') format('woff'),
+       url('fonts/oakes-grotesk-regular.ttf') format('truetype'),
+       url('fonts/oakes-grotesk-regular.svg#youworkforthem') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'OakesGrotesk';
+  src: url('fonts/oakes-grotesk-bold.eot');
+  src: url('fonts/oakes-grotesk-bold.eot?#iefix') format('embedded-opentype'),
+             url('fonts/oakes-grotesk-bold.woff2') format('woff2'),
+       url('fonts/oakes-grotesk-bold.woff') format('woff'),
+       url('fonts/oakes-grotesk-bold.ttf') format('truetype'),
+       url('fonts/oakes-grotesk-bold.svg#youworkforthem') format('svg');
+  font-weight: 700;
+  font-style: normal;
+}
+
+@font-face {
+  font-family: 'OakesGrotesk-RegularItalic';
+  src: url('fonts/oakes-grotesk-italic.eot');
+  src: url('fonts/oakes-grotesk-italic.eot?#iefix') format('embedded-opentype'),
+             url('fonts/oakes-grotesk-italic.woff2') format('woff2'),
+       url('fonts/oakes-grotesk-italic.woff') format('woff'),
+       url('fonts/oakes-grotesk-italic.ttf') format('truetype'),
+       url('fonts/oakes-grotesk-italic.svg#youworkforthem') format('svg');
+  font-weight: normal;
+  font-style: italic;
+}

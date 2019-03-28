@@ -1,4 +1,7 @@
 .navbar-item {
+  text-transform: uppercase;
+  font-weight: bold;
+
   position: relative;
   margin: 0 0.75rem;
   padding-left: 0;
@@ -29,5 +32,16 @@
   &:hover::after, &:focus::after, &.is-active::after {
     transform: scaleX(1);
     transform-origin: left center;
+  }
+}
+
+.navbar-brand .navbar-item {
+  color: $dark;
+  font-size: 1.4rem;
+  text-transform: lowercase;
+  padding-top: 6px;
+
+  &.is-active::after {
+    background-color: transparent;
   }
 }

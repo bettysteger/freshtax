@@ -1,3 +1,4 @@
+@import "fonts";
 @import "variables";
 
 // @import "../../node_modules/bulma/bulma";
@@ -22,20 +23,10 @@
 @import "leistungen";
 @import "team";
 
-body {
-  font-weight: 300;
-  letter-spacing: 0.8px;
-}
-
-h1,
-h2,
-h3,
-h4,
-h5,
-h6 {
-  text-transform: uppercase;
-  letter-spacing: 2.5px;
-}
+// h1, h2, h3, h4, h5, h6 {
+//   text-transform: uppercase;
+//   letter-spacing: 2.5px;
+// }
 
 i.fa-5x { // § icon
   display: inline-block;
@@ -47,18 +38,8 @@ i.fa-5x { // § icon
 }
 
 .navbar {
-  .navbar-link,
-  .navbar-item {
-    text-transform: uppercase;
-    font-weight: bold;
-  }
-
   .has-dropdown .navbar-item {
     text-transform: none;
-  }
-
-  strong {
-    color: $white;
   }
 
   @include touch {
@@ -70,21 +51,10 @@ i.fa-5x { // § icon
 }
 
 .hero.is-fullheight-with-navbar {
-  background-image: linear-gradient(to bottom, $white, transparent), url('/images/jesus-kiteque-224069-unsplash.jpg');
+  background-image: linear-gradient(to bottom, $white 20%, transparent), url('/images/jesus-kiteque-224069-unsplash.jpg');
   background-position: bottom center;
   background-size: cover;
   .hero-body {
     align-items: baseline;
   }
-}
-
-img.is-pulled-left, img.is-pulled-right {
-  margin-bottom: 3rem;
-  width: 20%;
-}
-img.is-pulled-left {
-  margin-right: 2rem;
-}
-img.is-pulled-right {
-  margin-left: 2rem;
 }
