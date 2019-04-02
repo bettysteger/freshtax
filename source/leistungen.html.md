@@ -106,7 +106,8 @@ Unser [Expertenteam](/team) erarbeitet gerne die für Sie optimale Strategie zur
     }
 
     if(elem.classList.contains('open')) {
-      elem.getElementsByTagName('h2')[0].scrollIntoView({ behavior: 'smooth' });
+      window.scroll(0, elem.getElementsByTagName('h2')[0].offsetTop - 80);
+      // elem.getElementsByTagName('h2')[0].scrollIntoView({ behavior: 'smooth' });
       // window.scrollBy({ top: 80, left: 0, behavior: 'smooth' }); // 80px = fixed header
     }
     
