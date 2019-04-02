@@ -58,9 +58,16 @@ i.fa-5x { // § icon
 .hero.is-fullheight-with-navbar {
   background-image: linear-gradient(to bottom, $white 23%, transparent), url('/images/landing.jpg');
   background-position: center;
+  background-size: 100%;
   background-size: cover;
   .hero-body {
     align-items: baseline;
+  }
+  @include until($tablet) {
+    background-image: linear-gradient(to bottom, $white 55%, transparent), url('/images/landing-mobile.jpg');
+    background-position: bottom;
+    background-repeat: no-repeat;
+    background-size: 115%;
   }
 }
 
