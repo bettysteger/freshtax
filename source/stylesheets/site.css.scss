@@ -56,10 +56,18 @@ i.fa-5x { // § icon
 }
 
 .hero.is-fullheight-with-navbar {
-  background-image: linear-gradient(to bottom, $white 20%, transparent), url('/images/jesus-kiteque-224069-unsplash.jpg');
-  background-position: bottom center;
+  background-image: linear-gradient(to bottom, $white 23%, transparent), url('/images/landing.jpg');
+  background-position: center;
   background-size: cover;
   .hero-body {
     align-items: baseline;
   }
+}
+
+
+img.is-hidden-mobile {
+  float: right;
+  margin-left: 2rem;
+  margin-bottom: 3rem;
+  width: 23.25%;
 }
