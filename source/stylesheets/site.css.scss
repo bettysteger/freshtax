@@ -28,6 +28,12 @@
 //   letter-spacing: 2.5px;
 // }
 
+svg {
+  width: 100px;
+  height: 100px;
+  // margin-top: -5px;
+}
+
 .column p {
   hyphens: auto;
   text-align: justify;
@@ -56,15 +62,16 @@ i.fa-5x { // § icon
 }
 
 .hero.is-fullheight-with-navbar {
-  background-image: linear-gradient(to bottom, $white 23%, transparent), url('/images/landing.jpg');
-  background-position: center;
+  // background-image: linear-gradient(to bottom, $white 40%, transparent), url('/images/landing3.jpg');
+  background-image: linear-gradient(to bottom, $white 50%, transparent 50%, transparent), url('/images/landing3.jpg');
+  background-position: center top;
   background-size: 100%;
   background-size: cover;
   .hero-body {
     align-items: baseline;
   }
   @include until($tablet) {
-    background-image: linear-gradient(to bottom, $white 55%, transparent), url('/images/landing-mobile.jpg');
+    background-image: linear-gradient(to bottom, $white 55%, transparent), url('/images/landing3.jpg');
     background-position: bottom;
     background-repeat: no-repeat;
     background-size: 115%;
