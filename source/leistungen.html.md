@@ -13,8 +13,6 @@ priority: 1.0
 </div>
 <div class="column is-full is-hidden-tablet info" markdown="1" id="0">
 
-![Buchhaltung und Lohnverrechnung](/images/leistungen.jpg "Buchhaltung und Lohnverrechnung"){:.is-hidden-mobile}
-
 ## Laufende Buchhaltung und Lohnverrechnung
 
 Die Buchhaltung gilt als Nervenzentrum jedes Unternehmens. Hier laufen alle wichtigen Daten zusammen: die gesamten Einnahmen und Ausgaben, das Anlagevermögen, die laufende Lohn- und Gehaltsverrechnung und diverse Steuerangelegenheiten wie die laufenden Umsatzsteuervoranmeldungen (UVA). Alle diese Daten geben Auskunft darüber, wie erfolgreich und ertragreich Ihre Arbeit war – und dienen zudem als wichtige Grundlage für die Planung des kommenden Jahres.
