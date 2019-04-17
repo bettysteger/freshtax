@@ -5,7 +5,7 @@ title: Expertenteam
 <div class="columns is-multiline is-mobile is-vcentered">
   <div class="column is-half-mobile person">
     <img src="/images/team/adam-mogyoro.jpg" alt="Adam Mogyoro">
-    <a href="#adam-mogyoro" class="hover">StB Adam Mogyoro, BSc (WU), L.L.M</a>
+    <a href="#adam-mogyoro" class="hover">StB Adam Mogyoro, BSc (WU), LL.M.</a>
   </div>
   <div class="column is-half-mobile person">
     <img src="/images/team/philipp-frenzl.jpg" alt="Philipp Frenzl">
@@ -17,54 +17,105 @@ title: Expertenteam
   </div>
   <div class="column is-half-mobile person">
     <img src="/images/team/daniel-bader.jpg" alt="Daniel Bader">
-    <div class="hover">StB Daniel Bader, MSc</div>
+    <div class="hover">StB Daniel Bader, MSc (WU)</div>
   </div>
 
-  <div class="column is-full info" markdown="1" id="0">
+<div class="column is-full info" markdown="1" id="0">
+
 # Adam Mogyoro
 
-## Inhaber
+## Geschäftsführer
 {:.is-size-7}
 
-### Beruflicher Werdegang
+### Beruflicher Werdegang und Ausbildung
 
-Studium der Wirtschaftswissenschaften an der Wirtschaftsuniversität Wien, Wirtschaftsprüfung und Steuerberatung bei KPMG, Steuerberatung bei SOT Süd-Ost Treuhand, Angelobung zum Steuerberater, Fachvortragender am Wirtschaftsförderungsinstitut (WIFI) im Bereich Steuern und Rechnungswesen
-
+* Studium der Wirtschaftswissenschaften an der Wirtschaftsuniversität Wien
+* Wirtschaftsprüfung und Steuerberatung bei KPMG
+* Steuerberatung bei SOT Süd-Ost Treuhand 
+* Fachvortragender am Wirtschaftsförderungsinstitut (WIFI) im Bereich Steuern und Rechnungswesen
+* Studium Steuerrecht und Rechnungswesen (LL.M.) 
 
 ### Mitgliedschaften
 
-Kammer der Wirtschaftstreuhänder, Österreichische Gesellschaft der Wirtschaftstreuhänder (ÖGWT,) WU Alumni Club, Magischer Cercle Wien
+* Studium der Wirtschaftswissenschaften an der Wirtschaftsuniversität Wien
+* Wirtschaftsprüfung und Steuerberatung bei KPMG
+* Steuerberatung bei SOT Süd-Ost Treuhand 
+* Fachvortragender am Wirtschaftsförderungsinstitut (WIFI) im Bereich Steuern und Rechnungswesen
+* Studium Steuerrecht und Rechnungswesen (LL.M.) 
 
 ### Tätigkeitsgebiete
 
-Allgemeines Ertragsteuerrecht, Umsatzsteuer und Verkehrssteuern, Gründung und Begleitung von Start-Up Unternehmen, Beratung bei Betriebsübernahmen & Betriebsaufgaben sowie Umgründungen, betriebswirtschaftliche Beratung, Erstellung von Jahresabschlüssen und laufende Buchhaltung
-  </div>
-  <div class="column is-full info" markdown="1" id="1">
+* Studium der Wirtschaftswissenschaften an der Wirtschaftsuniversität Wien
+* Wirtschaftsprüfung und Steuerberatung bei KPMG
+* Steuerberatung bei SOT Süd-Ost Treuhand 
+* Fachvortragender am Wirtschaftsförderungsinstitut (WIFI) im Bereich Steuern und Rechnungswesen
+* Studium Steuerrecht und Rechnungswesen (LL.M.) 
+
+</div><div class="column is-full info" markdown="1" id="1">
+
 # Philipp Frenzl
 
-## Partner
+## Rechtsanwalt bei [Völkl Rechtsanwälte](http://www.ra-voelkl.at/c/5/pf/Mag_Philipp_Frenzl)
 {:.is-size-7}
 
-Rechtsanwalt bei [Völkl Rechtsanwälte](http://www.ra-voelkl.at/c/5/pf/Mag_Philipp_Frenzl), Collaborative Lawyer sowie Aufsichtsrat bei der goood network Holding AG. 
+### Beruflicher Werdegang und Ausbildung
 
-### Beruflicher Werdegang
-
-Er studierte in Wien, daneben war er Berufsfußballspieler (ua bei SK Rapid Wien, Wiener Sportklub, First Vienna Football Club 1894), mehrfacher Jugend- und U-21 Nationalteamspieler (sowie Vize-Europameister mit dem Jugendnationalteam) und hat sich durch sein langjähriges Training und der parallel laufenden Ausbildung eine hohe Ausdauer, Gewissenhaftigkeit sowie Disziplin angeeignet. Ferner war er in namhaften Wirtschaftskanzleien tätig. 
-
-Zusätzlich hat er die „Collaborative Law“- Ausbildung (Kooperatives Anwaltsverfahren bzw. freiwilliges außergerichtliches Konfliktbearbeitungsverfahren, die auf Kooperation der Konfliktparteien mit ihren Anwälten und weiteren Experten statt auf Konfrontation setzt) absolviert. 
+* Studium der Rechtswissenschaften an der Universität Wien
+* „Collaborative Law“- Ausbildung (Kooperatives Anwaltsverfahren bzw. freiwilliges außergerichtliches Konfliktbearbeitungsverfahren, die auf Kooperation der Konfliktparteien mit ihren Anwälten und weiteren Experten statt auf Konfrontation setzt)
+* Aufsichtsrat bei der goood network Holding AG
 
 ### Tätigkeitsgebiete
 
-Bau- und Immobilienrecht, Sportrecht, Gesellschaftsrecht, Bankrecht, Kapitalmarkt- & Anlegerrecht, Corporate Governance, Versicherungsrecht, Wirtschaftsstrafrecht
-  </div>
-  <div class="column is-full info" markdown="1" id="2">
+* Bau- und Immobilienrecht
+* Sportrecht
+* Gesellschaftsrecht
+* Banken sowie Kapitalmarkt- & Anlegerrecht
+* Corporate Governance
+* Versicherungsrecht
+* Wirtschaftsstrafrecht
+
+</div><div class="column is-full info" markdown="1" id="2">
+
 # Wolfgang Grabmann
+
+## Geschäftsführer bei [Wolfgang Grabmann Steuerberatungsgesellschaft mbH](https://www.grabmann.at/)
+{:.is-size-7}
+
+### Tätigkeitsgebiete
+
+* Allgemeines Ertragssteuerrecht
+* Laufende Buchhaltung und Lohnverrechnung
+* Betriebswirtschaftliche Beratung und laufende Betreuung 
+* Betreuung bei Steuerberaterwechsel 
+* BMD Experte 
+
+</div><div class="column is-full info" markdown="1" id="3">
+
+# Daniel Bader
 
 ## Partner
 {:.is-size-7}
 
-[Wolfgang Grabmann Steuerberatungsgesellschaft mbH](https://www.grabmann.at/)
-  </div>
+### Beruflicher Werdegang und Ausbildung
+
+* Studium der Wirtschaftswissenschaften an der Wirtschaftsuniversität Wien
+* Business Administration & Controlling bei Siemens AG
+* Senior Consultant bei EY (Ernst & Young) – Transaction Tax
+* Finance Manager – Breiteneder Immobilien
+
+### Mitgliedschaften
+
+* Kammer der Steuerberater und Wirtschaftsprüfer 
+
+### Tätigkeitsgebiete
+
+* Allgemeines Ertragssteuerrecht
+* Umsatzsteuer und Verkehrssteuern
+* M&A Transaction und betriebswirtschaftliche Beratung
+* Internationales Steuerrecht
+* IFRS Accounting
+
+</div>
 </div>
 
 
