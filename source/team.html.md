@@ -37,19 +37,20 @@ title: Expertenteam
 
 ### Mitgliedschaften
 
-* Studium der Wirtschaftswissenschaften an der Wirtschaftsuniversität Wien
-* Wirtschaftsprüfung und Steuerberatung bei KPMG
-* Steuerberatung bei SOT Süd-Ost Treuhand 
-* Fachvortragender am Wirtschaftsförderungsinstitut (WIFI) im Bereich Steuern und Rechnungswesen
-* Studium Steuerrecht und Rechnungswesen (LL.M.) 
+* Kammer der Steuerberater und Wirtschaftsprüfer
+* Österreichische Gesellschaft der Steuerberater und Wirtschaftsprüfer (ÖGSW)
+* WU Alumni Club
+* Magischer Cercle Wien (MCW)
 
 ### Tätigkeitsgebiete
 
-* Studium der Wirtschaftswissenschaften an der Wirtschaftsuniversität Wien
-* Wirtschaftsprüfung und Steuerberatung bei KPMG
-* Steuerberatung bei SOT Süd-Ost Treuhand 
-* Fachvortragender am Wirtschaftsförderungsinstitut (WIFI) im Bereich Steuern und Rechnungswesen
-* Studium Steuerrecht und Rechnungswesen (LL.M.) 
+* Allgemeines Ertragssteuerrecht
+* Umsatzsteuer und Verkehrssteuern
+* Gründung und Begleitung von Start-Up Unternehmen
+* Beratung bei Betriebsübernahmen & Betriebsaufgaben
+* Umgründungen und betriebswirtschaftliche Beratung
+* Erstellung von Jahresabschlüssen und laufende Buchhaltung
+
 
 </div><div class="column is-full info" markdown="1" id="1">
 
