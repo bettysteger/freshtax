@@ -1,91 +1,19 @@
-.column .link {
-  display: block;
-  position: relative;
-
-  background-color: $grey-darker;
-  margin-bottom: 1em;
-  min-height: 220px;
-  padding: 1.25rem 2.5rem 1.25rem 1.5rem;
-  width: 100%;
-
-  color: $white;
-
-  background-image: linear-gradient(to right, $grey-darker, rgba($grey-darker, .75)), url('/images/leistungen/1.jpg');
-  background-repeat: no-repeat;
-  background-position: center right;
-  background-size: 55%;
-
-  h2 {
-    color: $white;
-    font-weight: normal;
-    letter-spacing: 0;
-    text-transform: none;
-    @include tablet-only {
-      font-size: 1.3rem !important;
-    }
-  }
-
-  &::before,
-  &::after {
-    position: absolute;
-    top: 0;
-    right: 0;
-    bottom: 0;
-    left: 0;
-    transform: scale3d(0, 0, 1);
-    transition: transform .3s ease-out 0s;
-    background: rgba(255, 255, 255, .1);
-    content: '';
-    pointer-events: none;
-  }
-
-  &::before {
-    transform-origin: left top;
-  }
-
-  &::after {
-    transform-origin: right bottom;
-  }
-
-  &:hover,
-  &:focus {
-    &::before,
-    &::after {
-      transform: scale3d(1, 1, 1);
-    }
-  }
+.link {
+  @extend .navbar-item;
+  margin: 0;
 }
 
-.info {
-  display: none;
-  // max-height: 0;
-  // transition: max-height .3s ease;
-  // overflow: hidden;
+.info { // also used for team accordion
+  max-height: 0;
+  transition: max-height .3s ease;
+  overflow: hidden;
+  padding: 0;
 
   &.open {
-    display: block;
-    // max-height: 800px;
+    max-height: 800px;
+    margin-bottom: 3rem;
+    &.column {
+      padding: 0.75rem;
+    }
   }
-}
-
-.columns > {
-
-  .column.is-3:nth-child(3) .link {
-    background-image: linear-gradient(to right, $grey-darker, rgba($grey-darker, .75)), url('/images/leistungen/2.jpg');
-  }
-
-  .column.is-3:nth-child(5) .link {
-    background-image: linear-gradient(to right, $grey-darker, rgba($grey-darker, .75)), url('/images/leistungen/3.jpg');
-  }
-
-  .column.is-3:nth-child(7) .link {
-    background-image: linear-gradient(to right, $grey-darker, rgba($grey-darker, .75)), url('/images/leistungen/4.jpg');
-  }
-
-  // @for $i from 1 through 4 {
-  //   .column.is-3:nth-child(even):nth-child(#{$i}) .link {
-  //     background-image: linear-gradient(to right, $grey-darker, rgba($grey-darker, .75)), url('/images/leistungen/#{$i}.jpg');
-  //   }
-  // }
-
 }

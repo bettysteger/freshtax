@@ -145,16 +145,16 @@ title: Expertenteam
     elem.classList.toggle('open');
 
 
-    if(elem.classList.contains('open')) {
-      window.scroll(0, elem.getElementsByTagName('h1')[0].offsetTop - 80);
-      // elem.getElementsByTagName('h1')[0].scrollIntoView({ behavior: 'smooth' });
-      // // now account for fixed header
-      // var scrolledY = window.scrollY;
-      // if(scrolledY){
-      //   window.scroll(0, scrolledY - 80);
-      // }
-      // window.scrollBy({ top: 80, left: 0, behavior: 'smooth' }); // 80px = fixed header
-    }
+    // if(elem.classList.contains('open')) {
+    //   window.scroll(0, elem.getElementsByTagName('h1')[0].offsetTop - 80);
+    //   // elem.getElementsByTagName('h1')[0].scrollIntoView({ behavior: 'smooth' });
+    //   // // now account for fixed header
+    //   // var scrolledY = window.scrollY;
+    //   // if(scrolledY){
+    //   //   window.scroll(0, scrolledY - 80);
+    //   // }
+    //   // window.scrollBy({ top: 80, left: 0, behavior: 'smooth' }); // 80px = fixed header
+    // }
     
   };
 </script>
