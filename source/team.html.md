@@ -1,5 +1,6 @@
 ---
 title: Expertenteam
+description: Das Expertenteam gewährt Ihnen sowohl in steuerlicher als auch in rechtlicher Hinsicht ein Rundumpaket, dass wir individuell mit Ihnen vorab abstimmen. Dank unserer jährlichen Fortbildungsverpflichtung und langjährigen Erfahrung bleibt unser Team immer auf den aktuellen Wissensstand.
 ---
 
 <div class="columns is-multiline is-mobile is-vcentered">

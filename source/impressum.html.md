@@ -6,7 +6,8 @@ hide_from_sitemap: true
 # IMPRESSUM
 
 Informationen über den Diensteanbieter gemäß §5 E-Commerce-Gesetz, §25 MedienG  
-FreshTax - Steuerberatung
+
+**FreshTax - Steuerberatung**  
 Inhaber: Adam Mogyoro  
 Rupertgasse 22/1/12  
 5020 Salzburg  
