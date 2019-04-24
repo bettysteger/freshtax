@@ -1,6 +1,6 @@
 ---
 title: Leistungen
-description: Unser Team bietet Ihnen maßgeschneiderte Lösungen für Sie und Ihr Unternehmen an. Neben der Erstellung von Steuererklärungen sowie der laufenden steuerlichen Beratung fokussieren wir uns auf folgende Kernbereiche: Unternehmensgründungen, Buchhaltung, Unternehmensberatung und Steueroptimierung
+description: "Unser Team bietet Ihnen maßgeschneiderte Lösungen für Sie und Ihr Unternehmen an. Neben der Erstellung von Steuererklärungen sowie der laufenden steuerlichen Beratung fokussieren wir uns auf folgende Kernbereiche: Unternehmensgründungen, Buchhaltung, Unternehmensberatung und Steueroptimierung."
 priority: 1.0
 ---
 
