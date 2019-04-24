@@ -4,7 +4,7 @@ description: "Unser Team bietet Ihnen maßgeschneiderte Lösungen für Sie und I
 priority: 1.0
 ---
 
-<h2><a href="#" class="link is-active">Unternehmensgründungen</a></h2>
+<h2><a href="#" class="link">Unternehmensgründungen</a></h2>
 <div class="" markdown="1" id="0">
 
 Unternehmensgründer und Jungunternehmen stehen vor allem zu Beginn Ihrer Laufbahn vor vielen Herausforderungen. Die richtigen Entscheidungen zu treffen um den Erfolg des Unternehmens zu sichern, ist vor allem in der Gründungsphase essentiell. ABER: der Paragrafendschungel blüht und gedeiht! 
@@ -19,7 +19,7 @@ Fragen, die Sie sich rund um die Gründung ihres Unternehmens stellen müssen, h
 </div>
 
 
-<h2><a href="#" class="link is-active">Buchhaltung & Lohnverrechnung</a></h2>
+<h2><a href="#" class="link">Buchhaltung & Lohnverrechnung</a></h2>
 <div class="" markdown="1" id="1">
 
 Die Buchhaltung gilt als Nervenzentrum jedes Unternehmens. Hier laufen alle wichtigen Daten zusammen: die gesamten Einnahmen und Ausgaben, das Anlagevermögen, die laufende Lohn- und Gehaltsverrechnung und diverse Steuerangelegenheiten wie die laufenden Umsatzsteuervoranmeldungen (UVA). Alle diese Daten geben Auskunft darüber, wie erfolgreich und ertragreich Ihre Arbeit war – und dienen zudem als wichtige Grundlage für die Planung des kommenden Jahres.
@@ -32,7 +32,7 @@ Unser [Expertenteam](/team) bietet Ihnen ein Rundumpaket, um Ihre laufende Buchh
 </div>
 
 
-<h2><a href="#" class="link is-active">Unternehmensberatung</a></h2>
+<h2><a href="#" class="link">Unternehmensberatung</a></h2>
 <div class="" markdown="1" id="2">
 
 Ebenso wichtig wie ihre Steuerangelegenheiten, ist Ihre strategische Planung sowie die Umsetzung in die betriebliche Realität. Dazu benötigen Sie wirksame Instrumente zur Entscheidungsfindung und Steuerung ihres Unternehmens. Um eine fundierte Entscheidungsgrundlage für Sie zu schaffen, ist ein aktueller Überblick über die wirtschaftliche Situation des Unternehmens ebenso erforderlich wie die regelmäßige und systematische Auseinandersetzung mit den Möglichkeiten der zukünftigen Unternehmensentwicklung. Dazu gehören insbesondere Investitions- und Rentabilitätsrechnungen, ein professioneller Business-Plan sowie eine aussagekräftige Abweichungsanalyse. 
@@ -42,7 +42,7 @@ Unser [Expertenteam](/team) erarbeitet gerne die für Sie optimale Strategie zur
 </div>
 
 
-<h2><a href="#" class="link is-active">Steueroptimierung & Steuergestaltung</a></h2>
+<h2><a href="#" class="link">Steueroptimierung & Steuergestaltung</a></h2>
 <div class="" markdown="1" id="3">
 
 Eine zentrale Tätigkeit unseres [Expertenteams](/team) ist die korrekte und optimale Abwicklung aller steuerlichen Angelegenheiten unserer Kunden. 
@@ -60,10 +60,10 @@ Vor allem aber planen und konzipieren wir mit Ihnen gemeinsam Maßnahmen, die Ih
 
 
 <script>
-  var link is-actives = document.getElementsByClassName('link is-active');
+  var links = document.getElementsByClassName('link');
 
-  Array.prototype.forEach.call(link is-actives, function(link is-active, i) { 
-    link is-active.addEventListener('click', function (e) {
+  Array.prototype.forEach.call(links, function(link, i) { 
+    link.addEventListener('click', function (e) {
       e.preventDefault();
       toggle(i + '');
     });
@@ -77,11 +77,11 @@ Vor allem aber planen und konzipieren wir mit Ihnen gemeinsam Maßnahmen, die Ih
     Array.prototype.forEach.call(all, function(el, i) {
       if(el.id !== id) {
         el.classList.remove('open');
-        link is-actives[i].classList.remove('is-active');
+        links[i].classList.remove('is-active');
       }
     });
     elem.classList.toggle('open');
-    link is-actives[id].classList.add('is-active');
+    links[id].classList.add('is-active');
 
 
     // if(elem.classList.contains('open')) {
@@ -91,6 +91,14 @@ Vor allem aber planen und konzipieren wir mit Ihnen gemeinsam Maßnahmen, die Ih
     // }
     
   };
+
+  
+    Array.prototype.forEach.call(links, function(link, i) {
+      setTimeout(function () {
+        link.classList.add('is-active');
+      }, i*200);
+    });
+  
 </script>
 
 
