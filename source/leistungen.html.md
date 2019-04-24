@@ -96,7 +96,7 @@ Vor allem aber planen und konzipieren wir mit Ihnen gemeinsam Maßnahmen, die Ih
     Array.prototype.forEach.call(links, function(link, i) {
       setTimeout(function () {
         link.classList.add('is-active');
-      }, i*200);
+      }, (i+1)*400);
     });
   
 </script>
