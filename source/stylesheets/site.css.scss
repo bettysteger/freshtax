@@ -77,7 +77,21 @@ i.fa-5x { // § icon
     background-size: 115%;
   }
 }
-
+.hero.team {
+  display: none;
+}
+.hero.leistungen, .hero.kontakt {
+  background-image: url('/images/landing.jpg');
+  background-position: center 65%;
+  background-size: 115%;
+  min-height: 280px;
+  margin-top: 3rem;
+}
+.hero.kontakt {
+  background-image: url('/images/jesus-kiteque-224069-unsplash.jpg');
+  background-position: center bottom;
+  background-size: cover;
+}
 
 img.is-hidden-mobile {
   float: right;
