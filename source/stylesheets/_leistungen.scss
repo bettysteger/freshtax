@@ -1,6 +1,7 @@
 h2:not(.is-size-7) {
   @extend .navbar-item;
   margin: 0;
+  margin-bottom: 0.5714em;
   color: $grey;
   &.is-active {
     color: $dark;
