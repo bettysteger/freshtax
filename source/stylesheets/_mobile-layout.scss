@@ -17,7 +17,11 @@
   h1, h2, h3 {
     overflow-wrap: break-word;
     word-wrap: break-word;
-    hyphens: auto;
+    // hyphens: auto;
+  }
+
+  h2::after, h2::before {
+    bottom: 15%;
   }
 
 };

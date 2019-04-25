@@ -21,3 +21,18 @@ document.addEventListener('DOMContentLoaded', function () {
     });
   }
 });
+
+/**
+ * Animate h2 headlines
+ */
+var headlines = document.getElementsByTagName('h2');
+
+Array.prototype.forEach.call(headlines, function(h, i) {
+  setTimeout(function () {
+    h.classList.add('is-active');
+  }, (i+1)*400);
+});
+
+
+
+
