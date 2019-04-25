@@ -1,7 +1,8 @@
 ---
 title: Kontakt
-description: Kontaktiere uns jetzt
+description: Wir sind tätig in Salzburg & Wien, rufen Sie uns an oder schreiben Sie uns eine E-Mail - wir melden uns so bald wie möglich.
 ---
+
 **FreshTax - Steuerberatung**  
 Inhaber: Adam Mogyoro  
 Standorte: Salzburg & Wien
