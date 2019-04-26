@@ -4,7 +4,7 @@ description: "Unser Team bietet Ihnen maßgeschneiderte Lösungen für Sie und I
 priority: 1.0
 ---
 
-## Unternehmens<wbr>gründungen
+## Unternehmens&shy;gründungen
 
 Unternehmensgründer und Jungunternehmen stehen vor allem zu Beginn Ihrer Laufbahn vor vielen Herausforderungen. Die richtigen Entscheidungen zu treffen um den Erfolg des Unternehmens zu sichern, ist vor allem in der Gründungsphase essentiell. ABER: der Paragrafendschungel blüht und gedeiht! 
 
