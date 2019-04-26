@@ -47,7 +47,7 @@ helpers do
   end
 
   def page_url
-    "https://freshtax.netlify.com" + current_page.url
+    "https://freshtax.at" + current_page.url
   end
 
   def meta_description
