@@ -7,7 +7,7 @@ activate :autoprefixer do |prefix|
   prefix.browsers = "last 2 versions"
 end
 
-set :url_root, 'https://www.freshtax.at/'
+set :url_root, 'https://freshtax.at/'
 activate :search_engine_sitemap
 
 # Layouts
