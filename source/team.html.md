@@ -83,12 +83,28 @@ description: Das Expertenteam gewährt Ihnen sowohl in steuerlicher als auch in 
 ## Geschäftsführer bei [Wolfgang Grabmann Steuerberatungsgesellschaft mbH](https://www.grabmann.at/)
 {:.is-size-7}
 
+### Beruflicher Werdegang und Ausbildung
+
+* Steuerberaterprüfung 1988
+* Zertifizierter Trainer und Berater der BMD Systemhaus GmbH seit 1989
+* Gewerbeschein für Unternehmensberater seit 2003
+
+### Mitgliedschaften
+
+* Kammer der Steuerberater und Wirtschaftsprüfer
+* Fachgruppe UBIT der Wirtschaftskammer
+* Vor-Ort-Partner der BMD Systemhaus GmbH
+
 ### Tätigkeitsgebiete
 
 * Allgemeines Ertragssteuerrecht
+* Jahresabschluss und Steuererklärungen
 * Laufende Buchhaltung und Lohnverrechnung
-* Betriebswirtschaftliche Beratung und laufende Betreuung 
+* Betriebswirtschaftliche Beratung und Controlling 
 * Betreuung bei Steuerberaterwechsel 
+* Unterstützung von StartUps und Unternehmensneugründungen
+* Beratung bei der Wahl der optimalen Rechtsform
+* Unterstützung bei der Unternehmensdigitalisierung
 * BMD Experte 
 
 </div><div class="column is-full info" markdown="1" id="3">
