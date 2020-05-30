@@ -1,6 +1,6 @@
 ---
 title: Kontakt
-description: Wir sind tätig in Salzburg & Wien, rufen Sie uns an oder schreiben Sie uns eine E-Mail - wir melden uns so bald wie möglich.
+description: Wir sind tätig in Salzburg & Wien, rufen Sie uns an oder schreiben Sie uns eine E-Mail - Wir melden uns so bald wie möglich.
 ---
 
 **FreshTax - Steuerberatung**  
