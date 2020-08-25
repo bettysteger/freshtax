@@ -46,16 +46,17 @@ Wir werden Ihre personenbezogenen Daten zu folgenden Zwecken verarbeiten:
 
 1) zur Begründung, Verwaltung und Abwicklung der Geschäftsbeziehung;
 2) zur Stärkung der bestehenden Klientenbeziehung bzw. zum Aufbau einer neuen Klientenbeziehung oder dem Herantreten an Interessenten, einschließlich der Information über aktuelle Rechtsentwicklungen und unser Dienstleistungsangebot (Marketing);
-3)im Falle einer bereits erfolgten Beauftragung zur internen Organisation und zum Schadensmanagement der Kanzlei
-4)und soweit jeweils vom Klienten beauftragt:
+3) im Falle einer bereits erfolgten Beauftragung zur internen Organisation und zum Schadensmanagement der Kanzlei
+4) und soweit jeweils vom Klienten beauftragt:
 
-zur Durchführung der Lohnverrechnung für Klienten (einschließlich monatliche Lohn- und Gehaltsabrechnung, monatliche und jährliche Meldungen an Behörden etc.);
-zur Durchführung der Finanz- und Geschäftsbuchhaltung für Klienten;
-zur Ausübung von Beratungs- und Vertretungstätigkeiten im Bereich des Steuerrechts und wirtschaftlichen Angelegenheiten;
-zur Beratung und Vertretung in Beitrags-, Versicherungs- und Leistungsangelegenheiten der Sozialversicherungen,
-zur Vertretung vor Verwaltungsgerichten und Verwaltungsbehörden und vor gesetzlich anerkannten Kirchen und Religionsgemeinschaften in Beitragsangelegenheiten und vor allen anderen behördlich tätigen Institutionen und
-zur sonstigen Beratung sowie zur Übernahme von Treuhandaufgaben und zur Verwaltung von Vermögen im Berechtigungsumfang des § 2 WTBG 2017,
+5) zur Durchführung der Lohnverrechnung für Klienten (einschließlich monatliche Lohn- und Gehaltsabrechnung, monatliche und jährliche Meldungen an Behörden etc.);
+6) zur Durchführung der Finanz- und Geschäftsbuchhaltung für Klienten;
+7) zur Ausübung von Beratungs- und Vertretungstätigkeiten im Bereich des Steuerrechts und wirtschaftlichen Angelegenheiten;
+8) zur Beratung und Vertretung in Beitrags-, Versicherungs- und Leistungsangelegenheiten der Sozialversicherungen,
+9) zur Vertretung vor Verwaltungsgerichten und Verwaltungsbehörden und vor gesetzlich anerkannten Kirchen und Religionsgemeinschaften in Beitragsangelegenheiten und vor allen anderen behördlich tätigen Institutionen und
+10) zur sonstigen Beratung sowie zur Übernahme von Treuhandaufgaben und zur Verwaltung von Vermögen im Berechtigungsumfang des § 2 WTBG 2017,
 sowie zur jeder beauftragten Aufgabe gemäß § 2 WTBG 2017.
+
 Soweit wir Ihre personenbezogenen Daten bei Ihnen selbst erheben, ist die Bereitstellung Ihrer Daten grundsätzlich freiwillig. Allerdings können wir unseren Auftrag nicht oder nicht vollständig erfüllen, wenn Sie Ihre personenbezogenen Daten nicht bereitstellen.
 
 Wenn Sie ein Interessent bzw. potentiell zukünftiger Klient sind, werden wir Ihre Kontaktdaten zum Zweck der Direktwerbung über den Weg der Zusendung elektronischer Post oder der telefonische Kontaktaufnahme nur mit Ihrer Einwilligung gemäß Art. 6 Abs. 1 lit. a der Datenschutzgrundverordnung („DSGVO“) verarbeiten.
@@ -92,15 +93,14 @@ Wir speichern Ihre personenbezogenen Daten grundsätzlich bis zur Beendigung der
 Ihre Rechte im Zusammenhang mit personenbezogenen Daten
 Sie sind unter anderem berechtigt (i) zu überprüfen, ob und welche personenbezogenen Daten wir über Sie verarbeiten und Kopien dieser Daten zu erhalten, (ii) die Berichtigung, Ergänzung, oder Löschung Ihrer personenbezogenen Daten zu verlangen, soweit diese falsch sind oder nicht rechtskonform verarbeitet werden, (iii) von uns zu verlangen, die Verarbeitung Ihrer personenbezogenen Daten einzuschränken, (iv) unter bestimmten Umständen der Verarbeitung Ihrer personenbezogenen Daten zu widersprechen oder die für die Verarbeitung zuvor gegebene Einwilligung zu widerrufen, wobei ein Widerruf die Rechtsmäßigkeit der vor dem Widerruf erfolgten Verarbeitung nicht berührt, (v) Datenübertragbarkeit zu verlangen, soweit Sie unser Klient sind (vi) die Identität von Dritten, an welche Ihre personenbezogenen Daten übermittelt werden, zu kennen und (vii) bei der Datenschutzbehörde Beschwerde zu erheben.
 
-Unsere Kontaktdaten
 Sollten Sie zu dieser Erklärung Fragen haben oder Anträge stellen wollen, wenden Sie sich bitte an uns.
 
 
-Datenschutzerklärung für die Nutzung von Google Analytics
+**Datenschutzerklärung für die Nutzung von Google Analytics**
 Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. („Google“). Google Analytics verwendet sog. „Cookies“, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Im Falle der Aktivierung der IP-Anonymisierung auf dieser Webseite, wird Ihre IP-Adresse von Google jedoch innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Websiteaktivitäten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Websitebetreiber zu erbringen. Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt. Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden nutzen können. Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter dem folgenden Link (http://tools.google.com/dlpage/gaoptout?hl=de) verfügbare Browser-Plugin herunterladen und installieren.
 
 Nähere Informationen zu Nutzungsbedingungen und Datenschutz finden Sie unter http://www.google.com/analytics/terms/de.html bzw. unter https://support.google.com/analytics/answer/6004245?hl=de. Wir weisen Sie darauf hin, dass auf dieser Webseite Google Analytics um den Code „gat._anonymizeIp();“ erweitert wurde, um eine anonymisierte Erfassung von IP-Adressen (sog. IP-Masking) zu gewährleisten.
 
-
 Sie können die Erfassung der durch Cookies erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter dem folgenden Link (http://tools.google.com/dlpage/gaoptout?hl=de) verfügbare Browser-Plugin herunterladen und installieren.
 
+Der Nutzer hat das Recht, auf Antrag unentgeltlich Auskunft zu erhalten über die personenbezogenen Daten, die über ihn gespeichert wurden. Zusätzlich hat der Nutzer das Recht auf Berichtigung unrichtiger Daten, Sperrung und Löschung seiner personenbezogenen Daten, soweit dem keine gesetzliche Aufbewahrungspflicht entgegensteht.
