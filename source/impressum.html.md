@@ -37,3 +37,70 @@ Die auf dieser Website veröffentlichten Inhalte unterliegen dem Urheber- und Le
 ## 4. Datenschutz
 
 Durch den Besuch der Website des Anbieters können Informationen über den Zugriff (Datum, Uhrzeit, betrachtete Seite) gespeichert werden. Diese Daten gehören nicht zu den personenbezogenen Daten, sondern sind anonymisiert. Sie werden ausschließlich zu statistischen Zwecken ausgewertet. Eine Weitergabe an Dritte, zu kommerziellen oder nichtkommerziellen Zwecken, findet nicht statt. Der Anbieter weist ausdrücklich darauf hin, dass die Datenübertragung im Internet (z.B. bei der Kommunikation per E-Mail) Sicherheitslücken aufweisen und nicht lückenlos vor dem Zugriff durch Dritte geschützt werden kann. Die Verwendung der Kontaktdaten des Impressums zur gewerblichen Werbung ist ausdrücklich nicht erwünscht, es sei denn der Anbieter hatte zuvor seine schriftliche Einwilligung erteilt oder es besteht bereits eine Geschäftsbeziehung. Der Anbieter und alle auf dieser Website genannten Personen widersprechen hiermit jeder kommerziellen Verwendung und Weitergabe ihrer Daten.
+
+1. Datenschutzerklärung für Klienten
+
+Diese Erklärung beschreibt, wie die einzelnen Standorte der APP Steuerberatung GmbH („wir“) Ihre personenbezogene Daten verarbeitet. Die Erklärung richtet sich an unsere bestehenden und ehemaligen Klienten, Interessenten und potentielle zukünftige Klienten, sowie ihre jeweiligen Gesellschafter, Organe und sonstigen Mitarbeiter.
+
+Wir werden Ihre personenbezogenen Daten zu folgenden Zwecken verarbeiten:
+
+1) zur Begründung, Verwaltung und Abwicklung der Geschäftsbeziehung;
+2) zur Stärkung der bestehenden Klientenbeziehung bzw. zum Aufbau einer neuen Klientenbeziehung oder dem Herantreten an Interessenten, einschließlich der Information über aktuelle Rechtsentwicklungen und unser Dienstleistungsangebot (Marketing);
+3)im Falle einer bereits erfolgten Beauftragung zur internen Organisation und zum Schadensmanagement der Kanzlei
+4)und soweit jeweils vom Klienten beauftragt:
+
+zur Durchführung der Lohnverrechnung für Klienten (einschließlich monatliche Lohn- und Gehaltsabrechnung, monatliche und jährliche Meldungen an Behörden etc.);
+zur Durchführung der Finanz- und Geschäftsbuchhaltung für Klienten;
+zur Ausübung von Beratungs- und Vertretungstätigkeiten im Bereich des Steuerrechts und wirtschaftlichen Angelegenheiten;
+zur Beratung und Vertretung in Beitrags-, Versicherungs- und Leistungsangelegenheiten der Sozialversicherungen,
+zur Vertretung vor Verwaltungsgerichten und Verwaltungsbehörden und vor gesetzlich anerkannten Kirchen und Religionsgemeinschaften in Beitragsangelegenheiten und vor allen anderen behördlich tätigen Institutionen und
+zur sonstigen Beratung sowie zur Übernahme von Treuhandaufgaben und zur Verwaltung von Vermögen im Berechtigungsumfang des § 2 WTBG 2017,
+sowie zur jeder beauftragten Aufgabe gemäß § 2 WTBG 2017.
+Soweit wir Ihre personenbezogenen Daten bei Ihnen selbst erheben, ist die Bereitstellung Ihrer Daten grundsätzlich freiwillig. Allerdings können wir unseren Auftrag nicht oder nicht vollständig erfüllen, wenn Sie Ihre personenbezogenen Daten nicht bereitstellen.
+
+Wenn Sie ein Interessent bzw. potentiell zukünftiger Klient sind, werden wir Ihre Kontaktdaten zum Zweck der Direktwerbung über den Weg der Zusendung elektronischer Post oder der telefonische Kontaktaufnahme nur mit Ihrer Einwilligung gemäß Art. 6 Abs. 1 lit. a der Datenschutzgrundverordnung („DSGVO“) verarbeiten.
+
+Wenn Sie unser Klient sind, verarbeiten wir Ihre personenbezogenen Daten, weil dies erforderlich ist, um den mit Ihnen geschlossenen Vertrag zu erfüllen (Art. 6 Abs. 1 lit. b DSGVO).
+
+Im Übrigen verarbeiten wir Ihre personenbezogenen Daten auf der Grundlage unseres überwiegenden berechtigten Interesses, die unter Punkt 1 genannten Zwecke zu erreichen (Art. 6 Abs. 1 lit. f DSGVO) und auf der gesetzlichen Grundlage des WTBG 2017 (Art. 9 Abs. 2 lit. g DSGVO).
+
+Übermittlung Ihrer personenbezogenen Daten
+Soweit dies zu den unter Punkt 1 genannten Zwecken zwingend erforderlich ist, werden wir Ihre personenbezogenen Daten an folgende Empfänger übermitteln:
+
+von uns eingesetzte IT-Dienstleister sowie sonstige Dienstleister iZm Marketing-Aktivitäten,
+Verwaltungsbehörden, Gerichte und Körperschaften des öffentlichen Rechtes,
+Versicherungen aus Anlass des Abschlusses eines Versicherungsvertrages über die Leistung oder des Eintritts des Versicherungsfalles (z.B. Haftpflichtversicherung),
+Klienten, soweit es sich um Daten der Gesellschafter, Organe und sonstigen Mitarbeiter des jeweiligen Klienten handelt,
+Kooperationspartner und für uns tätige Rechtsvertreter,
+vom Klienten bestimmte sonstige Empfänger (z.B. Konzerngesellschaften des Klienten),
+zusätzlich im Falle von personenbezogenen Daten von Dienstnehmern unserer Klienten im Bereich der Lohnverrechnung:
+Gläubiger des Dienstnehmers sowie sonstige an der allenfalls damit verbundenen Rechtsverfolgung Beteiligte, auch bei freiwilligen Gehaltsabtretungen für fällige Forderungen,
+Organe der betrieblichen und gesetzlichen Interessensvertretung,
+Versicherungsanstalten im Rahmen einer bestehenden Gruppen- oder Einzelversicherung sowie Mitarbeitervorsorgekassen (MVK),
+mit der Auszahlung an den Dienstnehmer oder an Dritte befasste Banken,
+Betriebsärzte und Pensionskassen,
+Mitversicherte und
+zusätzlich im Bereich der Finanz- und Geschäftsbuchhaltung für Klienten:
+Inkassounternehmen zur Schuldeneintreibung,
+Banken im Auftrag des Klienten,
+Factoring-Unternehmen, Zessionare und Leasingunternehmen.
+
+Manche der oben genannten Empfänger können sich außerhalb Österreichs befinden oder Ihre personenbezogenen Daten außerhalb Österreichs verarbeiten. Das Datenschutzniveau in anderen Ländern entspricht unter Umständen nicht jenem Österreichs. Wir setzen daher Maßnahmen, um zu gewährleisten, dass alle Empfänger ein angemessenes Datenschutzniveau bieten. Dazu schließen wir beispielsweise Standardvertragsklauseln (2010/87/EC und/oder 2004/915/EC) ab. Diese sind auf Anfrage verfügbar.
+
+Wir speichern Ihre personenbezogenen Daten grundsätzlich bis zur Beendigung der Geschäftsbeziehung im Rahmen derer wir Ihre Daten erhoben haben oder bis zum Ablauf der anwendbaren gesetzlichen Verjährungs- und Aufbewahrungsfristen; darüber hinaus bis zur Beendigung von allfälligen Rechtsstreitigkeiten, bei denen die Daten als Beweis benötigt werden. Soweit Sie ein Klient, ehemaliger Klienten, Interessent bzw. potentiell zukünftiger Klient oder eine Kontaktperson bei einer der Vorgenannten sind, speichern wir Ihre personenbezogenen Daten für die Zwecke des Marketings bis zu Ihrem Widerspruch oder dem Widerruf Ihrer Einwilligung, soweit die Marketingmaßnahme auf Grundlage Ihrer Einwilligung erfolgt.
+
+Ihre Rechte im Zusammenhang mit personenbezogenen Daten
+Sie sind unter anderem berechtigt (i) zu überprüfen, ob und welche personenbezogenen Daten wir über Sie verarbeiten und Kopien dieser Daten zu erhalten, (ii) die Berichtigung, Ergänzung, oder Löschung Ihrer personenbezogenen Daten zu verlangen, soweit diese falsch sind oder nicht rechtskonform verarbeitet werden, (iii) von uns zu verlangen, die Verarbeitung Ihrer personenbezogenen Daten einzuschränken, (iv) unter bestimmten Umständen der Verarbeitung Ihrer personenbezogenen Daten zu widersprechen oder die für die Verarbeitung zuvor gegebene Einwilligung zu widerrufen, wobei ein Widerruf die Rechtsmäßigkeit der vor dem Widerruf erfolgten Verarbeitung nicht berührt, (v) Datenübertragbarkeit zu verlangen, soweit Sie unser Klient sind (vi) die Identität von Dritten, an welche Ihre personenbezogenen Daten übermittelt werden, zu kennen und (vii) bei der Datenschutzbehörde Beschwerde zu erheben.
+
+Unsere Kontaktdaten
+Sollten Sie zu dieser Erklärung Fragen haben oder Anträge stellen wollen, wenden Sie sich bitte an uns.
+
+
+Datenschutzerklärung für die Nutzung von Google Analytics
+Diese Website benutzt Google Analytics, einen Webanalysedienst der Google Inc. („Google“). Google Analytics verwendet sog. „Cookies“, Textdateien, die auf Ihrem Computer gespeichert werden und die eine Analyse der Benutzung der Website durch Sie ermöglichen. Die durch den Cookie erzeugten Informationen über Ihre Benutzung dieser Website werden in der Regel an einen Server von Google in den USA übertragen und dort gespeichert. Im Falle der Aktivierung der IP-Anonymisierung auf dieser Webseite, wird Ihre IP-Adresse von Google jedoch innerhalb von Mitgliedstaaten der Europäischen Union oder in anderen Vertragsstaaten des Abkommens über den Europäischen Wirtschaftsraum zuvor gekürzt. Nur in Ausnahmefällen wird die volle IP-Adresse an einen Server von Google in den USA übertragen und dort gekürzt. Im Auftrag des Betreibers dieser Website wird Google diese Informationen benutzen, um Ihre Nutzung der Website auszuwerten, um Reports über die Websiteaktivitäten zusammenzustellen und um weitere mit der Websitenutzung und der Internetnutzung verbundene Dienstleistungen gegenüber dem Websitebetreiber zu erbringen. Die im Rahmen von Google Analytics von Ihrem Browser übermittelte IP-Adresse wird nicht mit anderen Daten von Google zusammengeführt. Sie können die Speicherung der Cookies durch eine entsprechende Einstellung Ihrer Browser-Software verhindern; wir weisen Sie jedoch darauf hin, dass Sie in diesem Fall gegebenenfalls nicht sämtliche Funktionen dieser Website vollumfänglich werden nutzen können. Sie können darüber hinaus die Erfassung der durch das Cookie erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter dem folgenden Link (http://tools.google.com/dlpage/gaoptout?hl=de) verfügbare Browser-Plugin herunterladen und installieren.
+
+Nähere Informationen zu Nutzungsbedingungen und Datenschutz finden Sie unter http://www.google.com/analytics/terms/de.html bzw. unter https://support.google.com/analytics/answer/6004245?hl=de. Wir weisen Sie darauf hin, dass auf dieser Webseite Google Analytics um den Code „gat._anonymizeIp();“ erweitert wurde, um eine anonymisierte Erfassung von IP-Adressen (sog. IP-Masking) zu gewährleisten.
+
+
+Sie können die Erfassung der durch Cookies erzeugten und auf Ihre Nutzung der Website bezogenen Daten (inkl. Ihrer IP-Adresse) an Google sowie die Verarbeitung dieser Daten durch Google verhindern, indem sie das unter dem folgenden Link (http://tools.google.com/dlpage/gaoptout?hl=de) verfügbare Browser-Plugin herunterladen und installieren.
+
