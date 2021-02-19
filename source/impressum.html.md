@@ -8,10 +8,8 @@ hide_from_sitemap: true
 Informationen über den Diensteanbieter gemäß §5 E-Commerce-Gesetz, §25 MedienG  
 
 **FreshTax - Steuerberatungs GmbH**  
-Firemenbuchnummer: 549217y
-
+Firmenbuchnummer: 549217y  
 Geschäftsführer: StB Adam Mogyoro, BSc (WU), LL.M.  
-
 Rupertgasse 22/1/12  
 5020 Salzburg  
 ATU76433913  
