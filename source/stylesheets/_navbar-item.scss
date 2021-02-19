@@ -38,6 +38,7 @@
 .navbar-brand .navbar-item {
   color: $dark;
   font-size: 1.4rem;
+  text-transform: none;
   padding-top: 6px;
 
   &.is-active::after {
