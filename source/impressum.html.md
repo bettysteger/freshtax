@@ -7,14 +7,15 @@ hide_from_sitemap: true
 
 Informationen über den Diensteanbieter gemäß §5 E-Commerce-Gesetz, §25 MedienG  
 
-**FreshTax - Steuerberatung**  
-Inhaber: Adam Mogyoro  
+**FreshTax - Steuerberatungs GmbH**  
+FN 549217y
+Geschäftsführer: StB Adam Mogyoro, BSc (WU), LL.M.  
 Rupertgasse 22/1/12  
 5020 Salzburg  
-ATU72814902  
+ATU76433913  
 Telefon: 0043 680 110 33 55  
 Mitglied der Kammer der Wirtschaftstreuhänder  
-WT-Code: 216949 www.kwt.or.at
+WT-Code: 807681 www.kwt.or.at
 
 Umsetzung der Webseite: [Bettina Steger](https://bettysteger.com)  
 Logo & Fotos: Lisa Huber  
