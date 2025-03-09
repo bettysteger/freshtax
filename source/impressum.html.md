@@ -10,7 +10,7 @@ Informationen über den Diensteanbieter gemäß §5 E-Commerce-Gesetz, §25 Medi
 **FreshTax - Steuerberatungs GmbH**  
 Firmenbuchnummer: 549217y  
 Geschäftsführer: StB Adam Mogyoro, BSc (WU), LL.M.  
-Weng 249
+Weng 249  
 5453 Werfenweng  
 ATU76433913  
 Telefon: 0043 680 110 33 55  
