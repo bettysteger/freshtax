@@ -69,6 +69,10 @@ i.fa-5x { // § icon
   background-size: cover;
   .hero-body {
     align-items: baseline;
+
+    h1 {
+      color: $green;
+    }
   }
   @include until($tablet) {
     background-image: linear-gradient(to bottom, $white 55%, transparent), url('/images/landing3.jpg');
