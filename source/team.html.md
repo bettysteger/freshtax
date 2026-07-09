@@ -38,5 +38,4 @@ description: "Adam Mogyoro, Steuerberater & Wirtschaftstreuhänder in Salzburg &
 * Umgründungen und betriebswirtschaftliche Beratung
 * Erstellung von Jahresabschlüssen und laufende Buchhaltung
 
-</div>
 
