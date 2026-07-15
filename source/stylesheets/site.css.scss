@@ -1,6 +1,5 @@
 @import "fonts";
 @import "variables";
-
 // @import "../../node_modules/bulma/bulma";
 // Import only what you need from Bulma
 @import "../../node_modules/bulma/sass/utilities/_all.sass";
@@ -17,16 +16,14 @@
 @import "../../node_modules/bulma/sass/layout/footer.sass";
 @import "../../node_modules/bulma/sass/layout/section.sass";
 @import "../../node_modules/bulma/sass/layout/hero.sass";
-
 @import "navbar-item";
 @import "mobile-layout";
 @import "leistungen";
 @import "team";
-
 svg {
   width: 100px;
   height: 100px;
-  
+}
 .hero-logo {
   width: 680px;
   max-width: 90vw;
@@ -37,12 +34,10 @@ svg {
   border: none;
   outline: none;
 }
-
 .column p {
   hyphens: auto;
   text-align: justify;
 }
-
 i.fa-5x { // § icon
   display: inline-block;
   font-style: normal;
@@ -51,12 +46,10 @@ i.fa-5x { // § icon
   line-height: 1;
   font-family: serif;
 }
-
 .navbar {
   .has-dropdown .navbar-item {
     text-transform: none;
   }
-
   @include touch {
     .navbar-menu {
       background-color: $primary;
@@ -64,7 +57,6 @@ i.fa-5x { // § icon
     }
   }
 }
-
 .hero.is-fullheight-with-navbar {
   background: $white;
   .hero-body {
@@ -86,7 +78,6 @@ i.fa-5x { // § icon
   background-position: center bottom;
   background-size: cover;
 }
-
 img.is-hidden-mobile {
   float: right;
   margin-left: 2rem;
