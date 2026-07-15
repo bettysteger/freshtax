@@ -26,14 +26,16 @@
 svg {
   width: 100px;
   height: 100px;
-}
-
+  
 .hero-logo {
-  width: 340px;
-  max-width: 80%;
+  width: 680px;
+  max-width: 90vw;
   height: auto;
   display: block;
   margin: 0 auto 1.5rem;
+  background: transparent;
+  border: none;
+  outline: none;
 }
 
 .column p {
