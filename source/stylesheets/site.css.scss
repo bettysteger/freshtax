@@ -23,15 +23,17 @@
 @import "leistungen";
 @import "team";
 
-// h1, h2, h3, h4, h5, h6 {
-//   text-transform: uppercase;
-//   letter-spacing: 2.5px;
-// }
-
 svg {
   width: 100px;
   height: 100px;
-  // margin-top: -5px;
+}
+
+.hero-logo {
+  width: 340px;
+  max-width: 80%;
+  height: auto;
+  display: block;
+  margin: 0 auto 1.5rem;
 }
 
 .column p {
@@ -62,36 +64,9 @@ i.fa-5x { // § icon
 }
 
 .hero.is-fullheight-with-navbar {
-  // background-image: linear-gradient(to bottom, $white 40%, transparent), url('/images/landing3.jpg');
-  background-image: linear-gradient(to bottom, $white 50%, transparent 50%, transparent), url('/images/landing3.jpg');
-  background-position: center top;
-  background-size: 100%;
-  background-size: cover;
+  background: $white;
   .hero-body {
     align-items: baseline;
-    padding-top: 13rem;
-
-    h1 {
-      color: $green;
-      font-size: 4.5rem;
-      font-weight: 500;
-      line-height: 1.1;
-      margin-bottom: 1rem;
-    }
-  }
-  @include until($tablet) {
-    background-image: linear-gradient(to bottom, $white 55%, transparent), url('/images/landing3.jpg');
-    background-position: bottom;
-    background-repeat: no-repeat;
-    background-size: 115%;
-
-    .hero-body {
-      padding-top: 7rem;
-
-      h1 {
-        font-size: 2.75rem;
-      }
-    }
   }
 }
 .hero.team {
