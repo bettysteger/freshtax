@@ -13,7 +13,7 @@
     <meta property="og:url" content="<%= page_url %>">
     <meta property="og:description" content="<%= meta_description %>">
     <meta property="og:type" content="website">
-    <meta name="theme-color" content="#222222">
+    <meta name="theme-color" content="#002d2a">
 
     <link rel="canonical" href="<%= page_url %>">
 
@@ -39,7 +39,9 @@
       <div class="container">
         <div class="navbar-brand">
 
-          <%= nav_link('FreshTax', '/', class: 'navbar-item') %>
+          <a href="/" class="navbar-item" aria-label="Freshtax - Startseite">
+            <img src="/images/logo.png" alt="Freshtax" style="height: 1.75rem; width: auto;">
+          </a>
 
           <a role="button" class="navbar-burger" data-target="navMenu" aria-label="menu" aria-expanded="false">
             <span aria-hidden="true"></span>
