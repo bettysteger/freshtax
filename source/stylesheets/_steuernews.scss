@@ -1,0 +1,8 @@
+h2.green-line {
+  &::after {
+    background-color: $green;
+  }
+  &:hover, &:focus {
+    color: $dark;
+  }
+}
