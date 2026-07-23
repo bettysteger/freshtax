@@ -1,6 +1,5 @@
 @import "fonts";
 @import "variables";
-
 // @import "../../node_modules/bulma/bulma";
 // Import only what you need from Bulma
 @import "../../node_modules/bulma/sass/utilities/_all.sass";
@@ -17,29 +16,43 @@
 @import "../../node_modules/bulma/sass/layout/footer.sass";
 @import "../../node_modules/bulma/sass/layout/section.sass";
 @import "../../node_modules/bulma/sass/layout/hero.sass";
-
 @import "navbar-item";
 @import "mobile-layout";
 @import "leistungen";
-@import "steuernews";
 @import "team";
-
-// h1, h2, h3, h4, h5, h6 {
-//   text-transform: uppercase;
-//   letter-spacing: 2.5px;
-// }
-
 svg {
   width: 100px;
   height: 100px;
-  // margin-top: -5px;
 }
-
+.hero-logo {
+  display: block;
+  width: 1000px;
+  max-width: 95vw;
+  height: auto;
+  margin: 0 auto 1.5rem auto;
+  background: transparent;
+  border: none;
+  outline: none;
+}
+.hero.is-fullheight-with-navbar {
+  background: $white;
+  text-align: center;
+  .hero-body {
+    align-items: baseline;
+    width: 100%;
+  }
+  @include tablet {
+    h1 {
+      color: #7bc79a;
+      font-size: 5rem;
+      font-weight: 800;
+    }
+  }
+}
 .column p {
   hyphens: auto;
   text-align: justify;
 }
-
 i.fa-5x { // § icon
   display: inline-block;
   font-style: normal;
@@ -48,34 +61,15 @@ i.fa-5x { // § icon
   line-height: 1;
   font-family: serif;
 }
-
 .navbar {
   .has-dropdown .navbar-item {
     text-transform: none;
   }
-
   @include touch {
     .navbar-menu {
       background-color: $primary;
       border-radius: $radius;
     }
-  }
-}
-
-.hero.is-fullheight-with-navbar {
-  // background-image: linear-gradient(to bottom, $white 40%, transparent), url('/images/landing3.jpg');
-  background-image: linear-gradient(to bottom, $white 50%, transparent 50%, transparent), url('/images/landing3.jpg');
-  background-position: center top;
-  background-size: 100%;
-  background-size: cover;
-  .hero-body {
-    align-items: baseline;
-  }
-  @include until($tablet) {
-    background-image: linear-gradient(to bottom, $white 55%, transparent), url('/images/landing3.jpg');
-    background-position: bottom;
-    background-repeat: no-repeat;
-    background-size: 115%;
   }
 }
 .hero.team {
@@ -93,18 +87,9 @@ i.fa-5x { // § icon
   background-position: center bottom;
   background-size: cover;
 }
-.hero.steuernews {
-  background-image: url('/images/landing.jpg');
-  background-position: center 65%;
-  background-size: 115%;
-  min-height: 280px;
-  margin-top: 3rem;
-}
-
 img.is-hidden-mobile {
   float: right;
   margin-left: 2rem;
   margin-bottom: 3rem;
   width: 23.25%;
 }
-
